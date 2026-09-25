@@ -110,13 +110,6 @@ Sistema de gestión hotelera: reservas, habitaciones, huéspedes, eventos, resta
   <img alt="Proyectos por stack: Python/Django 8, React/TypeScript 7, PHP/Laravel 4, C#/ASP.NET 1" src="./assets/stack-light.svg" width="100%">
 </picture>
 
-## 📈 Actividad
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=OdellChacon&theme=github-dark-blue&hide_border=true&locale=es&background=161B22&ring=2EA043&fire=2EA043&currStreakLabel=2EA043">
-  <img alt="Racha de contribuciones" src="https://streak-stats.demolab.com?user=OdellChacon&theme=default&hide_border=true&locale=es&background=F6F8FA&ring=1A7F37&fire=1A7F37&currStreakLabel=1A7F37" width="100%">
-</picture>
-
 ## 💼 Experiencia
 
 | Rol | Empresa | Periodo |
