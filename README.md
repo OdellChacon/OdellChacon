@@ -16,7 +16,7 @@ Construyo sistemas web de gestión de punta a punta: levanto el requerimiento, m
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg">
-  <img alt="23 proyectos, 245 contribuciones en los últimos 12 meses, 3+ años construyendo software, 2 productos SaaS" src="./assets/stats-light.svg" width="100%">
+  <img alt="24 proyectos, 245 contribuciones en los últimos 12 meses, 3+ años construyendo software, 2 productos SaaS" src="./assets/stats-light.svg" width="100%">
 </picture>
 
 ---
@@ -75,6 +75,7 @@ Sistema de gestión hotelera: reservas, habitaciones, huéspedes, eventos, resta
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
+| **GrupoZenith - Sitio web corporativo** | Landing de la empresa, panel interno para el staff y panel para clientes con el avance de sus proyectos. Desarrollado por mí en solitario | Django · DRF · PostgreSQL · React 19 · TypeScript · Vite |
 | **ZenithAds** | SaaS multi-tenant para agencias de marketing: aprobación de piezas vía WhatsApp, calendario editorial, CRM y conector de Ads & BI | Django · DRF · React 19 · TypeScript · IA |
 | **ZenithLiving** | SaaS de administración de condominios en Venezuela: cobranza multimoneda con tasa BCV, pagos combinados, asambleas y contabilidad | NestJS · Next.js · PostgreSQL |
 | **Visualizador de cerámicas con IA** | Plataforma web + app móvil para un distribuidor de cerámicas: el cliente sube una foto y ve pisos y paredes con el producto aplicado en perspectiva. En producción | Python · FastAPI · visión por computadora · Celery · Docker |
@@ -107,7 +108,7 @@ Sistema de gestión hotelera: reservas, habitaciones, huéspedes, eventos, resta
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
-  <img alt="Proyectos por stack: Python/Django 8, React/TypeScript 7, PHP/Laravel 4, C#/ASP.NET 1" src="./assets/stack-light.svg" width="100%">
+  <img alt="Proyectos por stack: Python/Django 9, React/TypeScript 8, PHP/Laravel 4, C#/ASP.NET 1" src="./assets/stack-light.svg" width="100%">
 </picture>
 
 ## 💼 Experiencia
